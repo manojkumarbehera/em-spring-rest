@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: em-spring-rest-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: com.manojbehera
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/em-spring-re
+ st-parent/em-spring-rest-web/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
